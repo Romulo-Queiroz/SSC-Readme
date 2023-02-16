@@ -49,6 +49,8 @@ Update-Database -Context BancoContext
  - **Login: Tech**
 
  - **Senha: 123**
+ 
+ - https://ssc-sistemas.azurewebsites.net/
 
 # Autor
 <div align="center">
