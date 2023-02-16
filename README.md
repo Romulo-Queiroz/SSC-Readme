@@ -43,6 +43,12 @@ Update-Database -Context BancoContext
  - **Criptografia [Hash]**
 
  - **SMTP**
+ 
+  ## **Usuário de teste:**
+ 
+ - **Login: Tech**
+
+ - **Senha: 123**
 
 # Autor
 <div align="center">
